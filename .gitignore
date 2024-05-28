@@ -1,0 +1,8 @@
+
+.DS_Store
+node_modules/
+postgres/
+prisma/migrations
+keys/
+.env
+public/assets/heroes/*.jpg
