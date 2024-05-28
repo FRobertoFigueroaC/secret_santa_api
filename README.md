@@ -16,4 +16,9 @@ Start the API service
 npm run start dev
 ```
 
+Run the tests
+```
+npm run test
+```
+
 Use the Postman collection included in the postman folder
