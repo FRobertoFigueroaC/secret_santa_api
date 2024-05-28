@@ -1,4 +1,4 @@
-import { Person } from '../domain/interfaces';
+import { Person } from './interfaces';
 
 export const persons: Person[] = [
   {
