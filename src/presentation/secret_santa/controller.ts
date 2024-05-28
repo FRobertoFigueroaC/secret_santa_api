@@ -1,5 +1,5 @@
 import { Request, Response } from 'express';
-import { Person } from '../../domain/interfaces';
+import { Person } from '../../data/interfaces';
 import { prisma } from '../../data/postgres';
 import {
   getCurrentReceiverByGiverId,
